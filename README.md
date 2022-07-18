@@ -16,8 +16,8 @@ I'm a software engineer with 6 years of professional experience, mainly worked i
 
 - ⛈ 2022 : Got an awesome opportunity at [Sunday](https://sundayapp.com/) and have been laid off due to [the US tech recession](https://sifted.eu/articles/sunday-payments-quits-four-markets/) 
 - ✈️ 2021 : Move from the east of France to the west and joined [Gens de Confiance](https://gensdeconfiance.com/) as Back-end developer
-- 🚀 2018 : I worked for 3 years in the AdTech industry building scalable services [Ogury](https://ogury.com/), Specialized in tracking [(OMID)](https://iabtechlab.com/standards/open-measurement-sdk/) and monetization.
-- 💻 2016 : I started my professional career in 2016 at [Lengow](https://www.lengow.com/) building a Saas platform to help e-merchant to sells products in multiple marketplaces.  
+- 🚀 2018 : I worked for 3 years in the AdTech industry building scalable services at [Ogury](https://ogury.com/), Specialized in tracking [(OMID)](https://iabtechlab.com/standards/open-measurement-sdk/) and monetization.
+- 💻 2016 : I started my professional career at [Lengow](https://www.lengow.com/) building a Saas platform to help e-merchant to sells products in multiple marketplaces.  
 - 👶 2014 : Internship + CDD at [Actimage](https://www.actimage.com/fr/) // 🏍 Built a mobile app as Indie Hacker [Réussir son permis moto](https://apps.apple.com/fr/app/r%C3%A9ussir-son-permis-moto/id820931415)
 - 🎓 From school : I started creating websites when I was 18 years old using PHP and MySQL. I created a platform to manage my mom's clothing retail. A back-end for employees to be able to get their working calendar and news the company. A back-end (Zend framework + MySQL) and an iOS app (Objective-C) to manage the inventory stock every year. We used it for 8 years. 
 
