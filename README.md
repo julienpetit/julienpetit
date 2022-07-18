@@ -63,7 +63,7 @@ This is the stack I work on.
 
 ## Github Stats
 
-Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to contact me if you want to know more about my skills.
+Statistics are extracted from my public activity and doesn't reflect completely my work. Feel free to contact me if you want to know more about my skills.
 
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=julienpetit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
