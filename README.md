@@ -14,7 +14,8 @@
 
 I'm a software engineer with 6 years of professional experience, mainly worked in startup environments as fullstack developer. 
 
-- 💰 2022 : Joined the amazing [Spendesk](https://spendesk.com/) team 
+- 🏆 2025 : Joined [Hyperline](https://hyperline.co/)
+- 💰 2022 : Joined [Spendesk](https://spendesk.com/)
 - ⛈ 2022 : Got an awesome opportunity at [Sunday](https://sundayapp.com/) and have been laid off due to [the US tech recession](https://sifted.eu/articles/sunday-payments-quits-four-markets/) 
 - ✈️ 2021 : Move from the east of France to the west and joined [Gens de Confiance](https://gensdeconfiance.com/) as Back-end developer
 - 🚀 2018 : I worked for 3 years in the AdTech industry building scalable services at [Ogury](https://ogury.com/), Specialized in tracking [(OMID)](https://iabtechlab.com/standards/open-measurement-sdk/) and monetization.
